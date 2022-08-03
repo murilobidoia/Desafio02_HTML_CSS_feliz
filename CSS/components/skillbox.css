@@ -1,0 +1,7 @@
+.skillbox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 960px;
+    padding: 60px 0px 96px 472px;
+}

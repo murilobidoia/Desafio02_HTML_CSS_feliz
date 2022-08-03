@@ -1,0 +1,16 @@
+.HTMLbox {
+    display: inline-flex;
+    margin-bottom: 40px;
+}
+
+.HTMLbox .skillspercentage {
+    background: linear-gradient(
+        90deg,
+        #4C5B84 30%,
+        #fff 0%
+    );
+    border: 5px solid #000;
+    width: 320px;
+    height: 40px;
+    margin-left: 25px;
+}
